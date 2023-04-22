@@ -1,0 +1,23 @@
+{
+  "id": "3708939",
+  "name": "4",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "11372782",
+      "name": "相机",
+      "font_class": "xiangji",
+      "unicode": "e8c7",
+      "unicode_decimal": 59591
+    },
+    {
+      "icon_id": "26684777",
+      "name": "arrow_lift",
+      "font_class": "arrow_lift",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}

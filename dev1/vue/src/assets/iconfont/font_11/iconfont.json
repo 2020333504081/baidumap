@@ -1,0 +1,23 @@
+{
+  "id": "3884895",
+  "name": "11",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "1267180",
+      "name": "二维码",
+      "font_class": "erweima1688",
+      "unicode": "e6c8",
+      "unicode_decimal": 59080
+    },
+    {
+      "icon_id": "14711196",
+      "name": "火苗",
+      "font_class": "huomiao",
+      "unicode": "e674",
+      "unicode_decimal": 58996
+    }
+  ]
+}

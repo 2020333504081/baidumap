@@ -1,0 +1,155 @@
+*{
+    padding:0;
+    margin:0;
+    border:0;
+    -webkit-touch-callout: none;
+      -webkit-user-select: none;
+      -khtml-user-select: none;
+      -moz-user-select: none;
+      -ms-user-select: none;
+      user-select: none;
+
+  }
+
+
+.navul {
+/*  border-top:0.125rem solid lightgray;
+  border-bottom:0.1875rem solid lightgray;
+ */  display:flex;
+  flex-direction:row;
+  list-style:none;
+  justify-content : space-around;
+  padding:0.625rem 0 0.625rem 0;
+  margin:0;
+  position: fixed;
+  bottom:0;
+  width:100%;
+  z-index:1000;
+  background-color:white;
+  -webkit-box-shadow: darkgrey 5px 10px 20px 5px;
+}
+.navul li{
+  font-size:1.875rem;
+  font-family: "黑体";
+}
+
+.router-link-active,.router-link-exact-active{
+  color:blue;
+}
+
+
+  .input-group1{
+    border:0.0625rem solid lightgrey;
+    width:80%;
+    height:3.125rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    top:30%;
+    left:10%;
+  }
+  .input-group2{
+    border:0.0625rem solid lightgrey;
+    width:80%;
+    height:3.125rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    top:40%;
+    left:10%;
+  }
+  .input-group-addon{
+    height:100%;
+    width:20%;
+    border-style:none;
+  }
+  .form-control{
+    height:100%;
+    border-style:none;
+  }
+
+  .btnl{
+    position:absolute;
+    top:50%;
+    left:10%;
+    width:80%;
+    background-color:cornflowerblue;
+    border-style:none;
+    color:white;
+  }
+  .gotor{
+    position:absolute;
+    top:58%;
+    left:40%;
+    width:80%;
+    color:grey;
+  }
+
+
+.input-group3{
+    border:0.0625rem solid lightgrey;
+    width:80%;
+    height:3.125rem;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    position:absolute;
+    top:50%;
+    left:10%;
+  }
+
+.btnr{
+    position:absolute;
+    top:60%;
+    left:10%;
+    width:80%;
+    background-color:cornflowerblue;
+    color:white;
+    border-style:none;
+  }
+
+  .gotol{
+    position:absolute;
+    top:68%;
+    left:35%;
+    width:80%;
+    color:grey;
+  }
+ .comment-topicon1{
+    width:3rem;
+    height:3rem;
+    background-color:#858e97;
+    color:white;
+    text-align:center;
+    line-height:3rem;
+    position:absolute;
+    top:2rem;
+    left:2rem;
+    border-radius: 1.2rem;
+  }
+  .comment-topicon2{
+    width:3rem;
+    height:3rem;
+    background-color:#858e97;
+    color:white;
+    text-align:center;
+    line-height:3rem;
+    position:absolute;
+    top:2rem;
+    left:19rem;
+    border-radius: 1.2rem;
+  }
+  .comment-topicon3{
+    width:3rem;
+    height:3rem;
+    background-color:#858e97;
+    color:white;
+    text-align:center;
+    line-height:3rem;
+    position:absolute;
+    top:2rem;
+    right:2rem;
+    border-radius: 1.2rem;
+  }

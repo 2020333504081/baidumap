@@ -1,0 +1,30 @@
+{
+  "id": "3786331",
+  "name": "8",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "3869542",
+      "name": "红包",
+      "font_class": "hongbao",
+      "unicode": "e60d",
+      "unicode_decimal": 58893
+    },
+    {
+      "icon_id": "8288959",
+      "name": "爱心",
+      "font_class": "aixin",
+      "unicode": "e85c",
+      "unicode_decimal": 59484
+    },
+    {
+      "icon_id": "27637907",
+      "name": "金币",
+      "font_class": "jinbi",
+      "unicode": "e62e",
+      "unicode_decimal": 58926
+    }
+  ]
+}

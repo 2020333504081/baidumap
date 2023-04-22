@@ -1,0 +1,37 @@
+{
+  "id": "3890095",
+  "name": "12",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "7542172",
+      "name": "24gf-store",
+      "font_class": "24gf-store",
+      "unicode": "e83d",
+      "unicode_decimal": 59453
+    },
+    {
+      "icon_id": "9886125",
+      "name": "银行",
+      "font_class": "yinhang",
+      "unicode": "e64c",
+      "unicode_decimal": 58956
+    },
+    {
+      "icon_id": "25163443",
+      "name": "丽人美容",
+      "font_class": "lirenmeirong",
+      "unicode": "fd35",
+      "unicode_decimal": 64821
+    },
+    {
+      "icon_id": "28508587",
+      "name": "杠铃",
+      "font_class": "gangling",
+      "unicode": "e67a",
+      "unicode_decimal": 59002
+    }
+  ]
+}

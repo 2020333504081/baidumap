@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 3693055 */
+  src: url('iconfont.woff2?t=1665292625410') format('woff2'),
+       url('iconfont.woff?t=1665292625410') format('woff'),
+       url('iconfont.ttf?t=1665292625410') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-dingshi:before {
+  content: "\e6aa";
+}
+
+.icon-iconfont3:before {
+  content: "\e603";
+}
+
+.icon-riding-fill:before {
+  content: "\e6ff";
+}
+
+.icon-restaurant-fill:before {
+  content: "\e700";
+}
+
+.icon-route-fill:before {
+  content: "\e701";
+}
+
+.icon-taxi-fill:before {
+  content: "\e704";
+}
+
+.icon-walk-line:before {
+  content: "\e707";
+}
+
+.icon-yangshi_icon_tongyong_bus:before {
+  content: "\e66d";
+}
+
+.icon-yangshi_icon_tongyong_car:before {
+  content: "\e66e";
+}
+
+.icon-yangshi_icon_tongyong_voice:before {
+  content: "\e663";
+}
+
+.icon-yangshi_icon_tongyong_compass:before {
+  content: "\e667";
+}
+
+.icon-yangshi_icon_tongyong_more_services:before {
+  content: "\e66a";
+}
+
+.icon-yangshi_icon_tongyong_my_account:before {
+  content: "\e66b";
+}
+
